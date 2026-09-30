@@ -80,6 +80,18 @@ Churn Prediction Pipeline
 
 ## Exploratory Data Analysis
 
+### Total Charges Distribution by Churn
+
+![Total Charges Distribution](images/totalcharges_churn.png)
+
+### Churn Rate by Contract
+
+![Churn Rate by Contract](images/contract_churn.png)
+
+### Tenure Distribution by Churn
+
+![Tenure Distribution](images/tenure_churn.png)
+
 The project analyzes churn across several important customer attributes.
 
 ### Contract Type
