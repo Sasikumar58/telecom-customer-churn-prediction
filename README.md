@@ -94,6 +94,19 @@ Churn Prediction Pipeline
 
 The project analyzes churn across several important customer attributes.
 
+## Model Evaluation
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
 ### Contract Type
 
   Contract           Churn Rate
